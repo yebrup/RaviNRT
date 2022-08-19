@@ -1,11 +1,10 @@
 package ca_screen;
 
-public class NewGitDemo {
+public class AddDevelop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("checkin done");
-System.out.println("checkin done3");
+
 	}
 
 }
