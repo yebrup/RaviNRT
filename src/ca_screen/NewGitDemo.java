@@ -1,12 +1,10 @@
 package ca_screen;
 
-public class Hello {
+public class NewGitDemo {
 
 	public static void main(String[] args) {
-		
-		System.out.println("Hello world");
 		// TODO Auto-generated method stub
-
+System.out.println("checkin done");
 	}
 
 }
